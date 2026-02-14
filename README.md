@@ -34,7 +34,6 @@ Eğlence, yayın, arkadaş şakası veya görsel efekt denemeleri için:
 -   YouTube videoları
 -   Garip Google aramaları
 -   CMD pencereleri
--   Görev yöneticisini kapatma denemesi
 -   Extreme Mode (çok daha agresif)
 
   -------------------
@@ -127,7 +126,6 @@ For fun, streams, demonstrations or experiments:
 -   YouTube videos
 -   Weird Google searches
 -   CMD windows
--   Attempts to block Task Manager
 -   Extreme Mode (far more aggressive)
 
   ------------------
