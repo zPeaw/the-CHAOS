@@ -1,0 +1,2 @@
+# CHAOS-Engine requirements
+customtkinter>=5.2.0
